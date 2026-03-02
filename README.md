@@ -134,45 +134,6 @@ code .
 
 # 5. Press F5 to launch Extension Development Host
 ```
-
-### Project Structure
-
-```
-sarvis/
-├── src/
-│   ├── extension.ts              # Entry point
-│   ├── providers/
-│   │   ├── ChatViewProvider.ts   # Sidebar webview
-│   │   ├── CodeActionProvider.ts # Fix with Sarvis
-│   │   ├── DiffManager.ts        # Diff preview
-│   │   └── InlineCompletionProvider.ts
-│   ├── services/
-│   │   └── AiService.ts          # Sarvam API calls
-│   ├── commands/
-│   │   └── setApiKey.ts
-│   └── utils/
-│       └── errorHandler.ts
-├── media/
-│   ├── chat.css                  # Sidebar UI styles
-│   ├── chat.js                   # Sidebar UI logic
-│   └── icon.svg
-├── out/                          # Compiled output
-├── esbuild.js
-└── package.json
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how:
-
-1. **Fork** the repository
-2. **Create** a branch: `git checkout -b feature/your-feature-name`
-3. **Commit** your changes: `git commit -m "feat: add your feature"`
-4. **Push** to your branch: `git push origin feature/your-feature-name`
-5. **Open a Pull Request** and describe what you changed
-
 ### Commit Message Convention
 ```
 feat:     New feature
