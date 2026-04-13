@@ -90,7 +90,7 @@ Ctrl+Shift+P  →  "Sarvis: Set API Key"
 ```
 Or click the **⚙** gear icon in the Sarvis sidebar panel.
 
-> 🔑 Get your free API key at [sarvam.ai](https://sarvam.ai)
+> 🔑 Get your free API key at [sarvam.ai](https://dashboard.sarvam.ai/key-management)
 
 ### 3. Open the Sidebar
 
