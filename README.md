@@ -2,7 +2,7 @@
   <img src="/sarvisLogo.png" alt="Sarvis Logo" width="120"/>
 </p>
 
-<h1 align="center">Sarvis AI Coding Assistant for VS Code</h1>
+<h1 align="center">Sarvis - AI Coding Assistant for VS Code</h1>
 
 <p align="center">
   <strong>An intelligent AI coding assistant powered by Sarvam AI, built into VS Code.</strong><br/>
