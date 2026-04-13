@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/icon.png" alt="Sarvis Logo" width="120"/>
+  <img src="/sarvisLogo.png" alt="Sarvis Logo" width="120"/>
 </p>
 
 <h1 align="center">Sarvis AI Coding Assistant for VS Code</h1>
